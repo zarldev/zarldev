@@ -1,3 +1,3 @@
-👋 Hi, I’m Stevem@zarldev
+👋 Hi, I’m Steven@zarldev
 
 - 📫 [Blog](https://www.zarl.dev/)
